@@ -1,0 +1,14 @@
+.addContactForm{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+.title{
+    text-align: start;
+    font-weight: bold;
+}
+
+input{
+    margin:10px 0;
+}

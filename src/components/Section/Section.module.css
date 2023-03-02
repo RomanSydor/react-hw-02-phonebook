@@ -1,0 +1,24 @@
+.container {
+    max-width: 375px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+
+  .title{
+    text-align: start;
+    margin-bottom: 10px;
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      padding: 20px 30px;
+      max-width: 768px;
+    }
+  }
+  
+  @media (min-width: 1366px) {
+    .container {
+      padding: 20px 50px;
+      max-width: 1366px;
+    }
+  }

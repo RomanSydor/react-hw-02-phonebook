@@ -1,0 +1,17 @@
+.deleteBtn{
+    max-width: 100px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.cintactItem{
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 768px) {
+    .cintactItem{
+        flex-direction: row;
+    }
+    
+}

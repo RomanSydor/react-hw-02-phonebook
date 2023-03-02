@@ -1,0 +1,6 @@
+.filterContainer{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    max-width: 200px;
+  }
